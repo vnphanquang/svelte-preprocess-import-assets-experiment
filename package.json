@@ -12,9 +12,12 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.1.0",
     "@tsconfig/svelte": "^3.0.0",
+    "magic-string": "^0.26.7",
     "svelte": "^3.52.0",
     "svelte-check": "^2.9.2",
+    "svelte-parse-markup": "^0.1.1",
     "svelte-preprocess": "^4.10.7",
+    "svelte-preprocess-import-assets": "^0.2.2",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4",
     "vite": "^3.2.1"
